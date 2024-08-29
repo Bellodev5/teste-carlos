@@ -1,0 +1,59 @@
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+nav{
+    text-align: center;
+        font-size: 24px;
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        margin: 28px;
+        font-family: Calibri;
+}
+img{
+    border: double black
+}
+a:hover{
+    background-color: rgb(127, 224, 236);
+    margin: 20px;
+    text-decoration: none;
+    text-decoration: black;
+}
+h1{
+    text-align: center;
+    font-family: Calibri; 
+    font-size: 40px;
+    font-family: Calibri; 
+    
+}
+h2{
+    text-align: center;
+    font-family: Calibri; 
+    font-size: 37px;
+}
+p{
+    text-align: center;
+    font-family: Calibri; 
+    font-size: 25px;
+
+}
+#ass{
+    text-align: center;
+}
+.text-center {
+    text-align: center;
+  }
+  small{
+    font-style: italic;
+    font-family: Calibri;
+    font-size: 20px;
+
+  }
+  a{
+    font-family: Calibri;
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin: 11px;
+  }
